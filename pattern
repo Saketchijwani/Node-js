@@ -1,0 +1,27 @@
+var  prompt = require ('prompt-sync')();
+
+let i;
+let j;
+let a = parseInt(prompt("enter a i value "));
+let b = parseInt(prompt("enter a j value "));
+let c = prompt("Enter a operator ");
+
+
+let temp =  '  ' ;
+
+if (c == '+') {
+
+  for(i=a;i<b;i++){
+    
+
+    for(j=i;j<=i;j++)
+    {
+      temp = temp + " " + j;
+    
+        
+      console.log(temp);  
+    
+       
+    }    
+}
+} 
