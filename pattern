@@ -20,7 +20,7 @@ if (c == '+') {
     
         
       console.log(temp);  
-    
+    nnnn
        
     }    
 }
